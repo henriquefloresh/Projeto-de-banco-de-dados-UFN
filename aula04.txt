@@ -7,3 +7,13 @@ Exercíco de revisão:
   que submetem  projetos d e extensão. Um projeto possui título, resumo, coordenador(professores/pesquissadores), equipe(relação de professores/pequisadores), área de pesquisa(TECNOLOGIA, SAÙDE, HUMANAS, SOCIAL), 
   uma instituição responsável. Uma instituição tem nome, sigla e endereço. Um pesquisador/professor possui nome, email, cpf, numero de celular. Todo o projeto submetido precisa passar por uma avaliação.
   A avaliação é composta por uma submissão de projeto, um avaliador responsável(professor/pesquisador), um avaliador suplente(professor/pesquisador), campo para aparecer, data limite de parecer, resultado(APROVADO,            REPROVADO, EM CORREÇÃO).
+
+Relacionamentos -
+  - "Simples"
+              Professor------Area (pode ter de 0...N prof e a area de 1...1)
+  - Herança
+              Funcionário <- professor -> <- tecnico -> <- administrativo
+  - Associação
+              Médico ->  EXAME  <- Paciente 
+
+  Cardinalidade é a que define quem se relaciona primeiro.

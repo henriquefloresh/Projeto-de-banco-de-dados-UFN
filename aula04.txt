@@ -1,3 +1,9 @@
 Nível conceitual: Mapear aspectos estruturais para mostrar e discutir com o cliente(ou gerar documentação).
 Nível ou fase LÓGICA: pensar nas chaves estrangeiras e ajudar o programador.
 Nível ou fase Física: pensar na linguagem e tecnologias.
+
+Exercíco de revisão:
+É necessário modelar um esquema de banco de dados para um fluxo ou funcionalidade de um sistema de submissão de projetos em uma instituição. Em uma instituição, há professores/pesquisadores
+  que submetem  projetos d e extensão. Um projeto possui título, resumo, coordenador(professores/pesquissadores), equipe(relação de professores/pequisadores), área de pesquisa(TECNOLOGIA, SAÙDE, HUMANAS, SOCIAL), 
+  uma instituição responsável. Uma instituição tem nome, sigla e endereço. Um pesquisador/professor possui nome, email, cpf, numero de celular. Todo o projeto submetido precisa passar por uma avaliação.
+  A avaliação é composta por uma submissão de projeto, um avaliador responsável(professor/pesquisador), um avaliador suplente(professor/pesquisador), campo para aparecer, data limite de parecer, resultado(APROVADO,            REPROVADO, EM CORREÇÃO).

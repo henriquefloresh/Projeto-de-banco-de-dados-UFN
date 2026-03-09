@@ -17,3 +17,5 @@ Relacionamentos -
               Médico ->  EXAME  <- Paciente 
 
   Cardinalidade é a que define quem se relaciona primeiro.
+
+Muito para muitos(N...N) -> É preciso fazer uma tabela adicional, geralmente com o nome das duas tabelas.

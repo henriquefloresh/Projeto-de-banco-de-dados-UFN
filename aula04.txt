@@ -1,0 +1,3 @@
+Nível conceitual: Mapear aspectos estruturais para mostrar e discutir com o cliente(ou gerar documentação).
+Nível ou fase LÓGICA: pensar nas chaves estrangeiras e ajudar o programador.
+Nível ou fase Física: pensar na linguagem e tecnologias.

@@ -8,4 +8,3 @@ Modelagem Conceitual
     - Relacionamentos => São associações entre entidades que descrevem como elas interagem entre si dentro de um sistema, funcionando como o "verbo" na frase "Entidade A - Verbo/Relacionamento - Entidade B". 
     - Quando o foco é um cenário Cliente, os relacionamentos representam as regras de negócio que conectam a entidade principal "Cliente" a outras entidades, como "Pedido""Conta" ou "Produto".
 
-    - 
